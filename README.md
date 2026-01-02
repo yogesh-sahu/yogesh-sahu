@@ -81,7 +81,7 @@ Strong focus on clean architecture, reliability, and long-term maintainability.
 ## Contact
 
 - GitHub: https://github.com/Yogesh-Sahu
-- LinkedIn: [*(add if you want)*](https://www.linkedin.com/in/yogesh-sahu-dev/)
+- LinkedIn: [Yogesh-sahu](https://www.linkedin.com/in/yogesh-sahu-dev/)
 - Email: rsnyogesh@gmail.com
 
 ---
